@@ -1,0 +1,8 @@
+{
+  "name": "muxachi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/intutch/muxachi.git",
+  "author": "intouch2212 <opec1315@hotmail.co.th>",
+  "license": "MIT"
+}
